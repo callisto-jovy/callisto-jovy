@@ -1,6 +1,33 @@
-- 👋 Hi, I’m yugata
-- 👀 I’m interested in languages, coding, problem solving
-- 🌱 I’m currently learning Rustlang 
+<samp>
+<h2 align="center">
+yugata
+</h2>
+<div style="text-align: center;">Hello there, stranger</div>
+<hr>
+<hr>
+
+
+
+
+### Contact me
+
+<p>
+<a href="https://discord.com/users/308622737730174979">Discord</a>
+</p>
+
+<details>
+<summary>Cool icons</summary>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=ts,java,dart,rust,js,git,nodejs,figma,mongodb,github,idea,regex,flutter&theme=dark" />
+</p>
+
+
+![Metrics](/github-metrics.svg)
+
+</details>
+
+
+</samp>
 
 <!---
 callisto-jovy/callisto-jovy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
