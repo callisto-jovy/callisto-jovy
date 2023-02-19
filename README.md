@@ -1,10 +1,14 @@
 <samp>
+
 <h2 align="center">
 yugata
 </h2>
 <div style="text-align: center;">Hello there, stranger</div>
 <hr>
 <hr>
+
+<img src="https://media.tenor.com/_E15X0ER8qAAAAAd/strangelove-jack-ripper.gif"/>
+
 
 
 
