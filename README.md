@@ -3,30 +3,32 @@
 <h2 align="center">
 yugata
 </h2>
-<div style="text-align: center;">Hello there, stranger</div>
+
+<p align="center"> Hello there, stranger.</p>
 <hr>
 <hr>
 
+<p align="center">
 <img src="https://media.tenor.com/_E15X0ER8qAAAAAd/strangelove-jack-ripper.gif"/>
+</p>
 
+<hr>
+<hr>
 
+<h3 align="center"> Contact me </h3>
 
-
-
-### Contact me
-
-<p>
+<p align="center">
 <a href="https://discord.com/users/308622737730174979">Discord</a>
 </p>
 
 <details>
 <summary>Cool icons</summary>
+
 <p align="center">
     <img src="https://skillicons.dev/icons?i=ts,java,dart,rust,js,git,nodejs,figma,mongodb,github,idea,regex,flutter&theme=dark" />
+    <img src="/github-metrics.svg"/> 
+
 </p>
-
-
-![Metrics](/github-metrics.svg)
 
 </details>
 
