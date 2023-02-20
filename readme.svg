@@ -2,9 +2,14 @@
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
-            h1 {
+            h1,h2,h3,h4 {
                 color: white;
                 animation: mymove 2s infinite;
+                text-align: center;
+            }
+                
+            p {
+               text-align: center;
             }
 
             @keyframes mymove {
@@ -12,11 +17,22 @@
                     color: white;
                 }
                 to {
-                    color: black;
+                    color: green;
                 }
             }
             </style>
-            <h1>yugata</h1>
+            <samp>
+                <h2> yugata </h2>
+                <p> Hello there, stranger. </p>
+                <img src="https://media.tenor.com/_E15X0ER8qAAAAAd/strangelove-jack-ripper.gif"/>
+                <h3> Contact me </h3>
+                <a href="https://discord.com/users/308622737730174979">Discord</a>
+                
+                <details>
+                    <summary>Cool icons</summary>
+                      <img src="/github-metrics.svg"/>
+                </details>
+            </samp>
         </div>
     </foreignObject>
 </svg>
