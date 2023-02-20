@@ -30,7 +30,33 @@
                 width: 100%;
                 }
             </style>
-            <h1>HELLO WORLD!</h1>
+            <samp>
+
+                ## yugata
+                Hello there, stranger.
+                <hr>
+                <hr>
+
+                ![Hehe](https://media.tenor.com/_E15X0ER8qAAAAAd/strangelove-jack-ripper.gif)
+
+                <hr>
+                <hr>
+
+                ### Contact me
+                <a href="https://discord.com/users/308622737730174979">Discord</a>
+
+                <details>
+                    <summary>Cool icons</summary>
+
+                    ![Icons](https://skillicons.dev/icons?i=ts,java,dart,rust,js,git,nodejs,figma,mongodb,github,idea,regex,flutter&theme=dark)
+                    ![Metrics](/github-metrics.svg)
+
+
+
+                </details>
+
+
+            </samp>
         </div>
     </foreignObject>
 </svg>
