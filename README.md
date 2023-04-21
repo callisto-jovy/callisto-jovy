@@ -1,10 +1,7 @@
-<div align="center">
-    <img src="/readme.svg" alt="Hi">
-</div>
+
 
 <p align="center">
-<img src="https://i.gifer.com/2Yb2.gif"/>
-
+<img src="https://media.tenor.com/W8bEuJtyvwkAAAAC/rihanna-smoking.gif" alt="Gif"/>
 </p>
 
 <h3 align="center"> Contact me </h3>
