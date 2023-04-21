@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-<img src="https://media.tenor.com/_E15X0ER8qAAAAAd/strangelove-jack-ripper.gif"/>
+<img src="https://i.gifer.com/2Yb2.gif"/>
 
 </p>
 
