@@ -9,10 +9,10 @@
 <a href="https://discord.com/users/308622737730174979">Discord</a>
 </p>
 
+
 <details>
-<summary>Cool icons</summary>
+<summary>metrics</summary>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=ts,java,dart,rust,js,git,nodejs,figma,mongodb,github,idea,regex,flutter&theme=dark" />
     <img src="/github-metrics.svg"/>
 </p>
 </details>
